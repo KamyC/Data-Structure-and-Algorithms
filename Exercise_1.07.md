@@ -1,3 +1,11 @@
-ж╓цВобап╧╚й╫ё╨
-	a.logX < X╤ткЫсп╣дX>0╤╪Ёиа╒
-	b.log ё╗A^Bё╘ = BlogA;
+<script type="text/javascript" async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+## Х╞│Ф≤▌Д╦▀Е┬≈Е┘╛Е╪▐О╪ 
+1. logX < XЕ╞╧Ф┴─Ф°┴Г └X>0И┐╫Ф┬░Г╚▀  
+2. log О╪┬A^BО╪┴ = BlogA  
+
+1. Х╞│Ф≤▌О╪ 
+И╕√Е┘┬Ф≤▌Г≥╫logФ┴─Ф°┴Г └Е╨∙Д╦╨2Ц─┌
+Е╫⌠0<x 
+formular: $$n = x$$
